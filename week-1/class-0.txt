@@ -1,0 +1,10 @@
+git config --global user.name "Kunwar609"
+
+git config --global user.email "kunwargur3@gmail.com"
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Gurkunwar/Full-Stack-Development-using-MERN-Weekly-Activity--CipherSchools.git
+git push -u origin main

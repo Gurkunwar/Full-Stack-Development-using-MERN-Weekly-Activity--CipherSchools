@@ -1,10 +1,10 @@
-git config --global user.name "Kunwar609"
+This lecture was about basic introduction to git how to intialize the repositoty and what is git.
+Git Github Introduction 
 
-git config --global user.email "kunwargur3@gmail.com"
+Introduction To GIT Class 1
 
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Gurkunwar/Full-Stack-Development-using-MERN-Weekly-Activity--CipherSchools.git
-git push -u origin main
+#COMMANDS
+git --version //to check version of git in system
+
+Initialization : git init //start tracking for particular files/folder
+Modification/Adding : git add file_Name
